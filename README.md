@@ -23,14 +23,15 @@ Run the Jupyter notebooks in the following order:
 2.	mitigation.ipynb - Applies post-processing fairness mitigation methods  
 3.	performance_eval.ipynb - Evaluates and compares model performance  
 4.	fairness_results.ipynb - Calculates fairness metrics across all groups and models  
-5.	miti_comparison.ipynb - Generates visualizations comparing fairness metrics  
+5.	miti_comparison.ipynb - Generates visualizations comparing fairness metrics
+   
 Note: All notebooks automatically reference the .py files in the repository. No need to run Python scripts separately.  
 
 ## Data Availability
 The insurance claims dataset used in this research is confidential and not publicly available due to privacy and regulatory constraints. The code is provided for transparency and reproducibility of the methodology.
 
 ## Results & Visualizations
-For detailed results, fairness metric visualizations, and additional charts, please contact me via LinkedIn.
+For detailed results, fairness metric visualizations, and additional charts, please contact me via LinkedIn: https://www.linkedin.com/in/annabelresch/.
 
 ## Citation
 If you use this code or reference this work, please cite:  
