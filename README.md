@@ -15,17 +15,6 @@ o	Equalized Odds Post-Processing (AIF360)
 •	Performance Evaluation: Analysis with focus on recall due to high class imbalance
 
 ## Key Findings
-#### Fairness Metric Achievement by Method for comparison of male vs. female subgroup
-
-Metric	            FTU	FGBM	FGBM with HPT	Threshold Optimizer	ROC	EOdds
-Equal Opportunity	  ❌	✅	  ✅	              ✅	             ❌	  ✅
-Predictive Equality	❌	✅	  ❌	              ✅	             ❌  	✅
-Equalized Odds	    ❌	✅	  ❌	              ✅	             ❌  	✅
-CUAE	              ❌	✅	  ❌	              ❌	             ❌  	✅
-Predictive Parity	  ❌	✅	  ❌	              ❌	             ❌  	✅
-
-Legend: FTU = Fairness Through Unawareness, FGBM = FairGBM, HPT = Hyperparameter Tuning, ROC = Reject Option Classification, EOdds = Equalized Odds Post-Processing
-#### Critical Insight
 While mitigation methods successfully improved fairness metrics, improvements came at a severe cost to predictive performance, rendering them impractical for real-world deployment in this case study.
 
 ## Usage
