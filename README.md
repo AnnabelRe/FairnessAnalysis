@@ -37,3 +37,6 @@ For detailed results, fairness metric visualizations, and additional charts, ple
 If you use this code or reference this work, please cite:  
 Resch, A. (2025). Towards Fair AI Systems: Identification and Mitigation of Discrimination in the Financial Service Sector [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2025.123673
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
